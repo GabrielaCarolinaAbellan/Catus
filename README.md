@@ -1,4 +1,4 @@
-# Site, teste, de E-commerce da agência Catus
+TESTE # Site de E-commerce da agência Catus
 
 Bem-vindo ao projeto do site de e-commerce Catus! Este projeto é um site de e-commerce responsivo, projetado para oferecer uma experiência de compra perfeita em diferentes dispositivos.
 
