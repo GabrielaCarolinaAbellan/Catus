@@ -15,7 +15,7 @@ Bem-vindo ao projeto do site de e-commerce Catus! Este projeto é um site de e-c
 
 ## Visão Geral do Projeto
 
-Esse foi um projeto para avaliar meus conhecimentos com uma interface amigável. O site é projetado para ser responsivo, garantindo uma ótima experiência do usuário em dispositivos desktop e móveis.
+Esse foi um projeto que a agência fez para avaliar meus conhecimentos. Com uma interface amigável, o site é projetado para ser responsivo, garantindo uma ótima experiência do usuário em dispositivos desktop e móveis.
 
 ## Funcionalidades
 
